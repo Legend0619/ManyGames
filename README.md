@@ -48,7 +48,7 @@ Many Games is an offline games app where users can play fun, challenging and eng
 Steps to locally setup development after cloning the project.
 
 ```sh
-git clone https://github.com/BUMBAIYA/ManyGames.git
+git clone https://github.com/legend0619/ManyGames.git
 ```
 
 ### Step 1 - Dependencies
